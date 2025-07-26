@@ -85,13 +85,24 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 🔥 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/var-13/ssm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=ssm&theme=tokyonight&show_owner=true" />
+  </a>
   <a href="https://github.com/var-13/varshaa1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=varshaa1&theme=tokyonight" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/var-13/DBMS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=DBMS&theme=tokyonight" />
   </a>
 </div>
+
+### 🌟 Project Highlights:
+- **🔒 SSM**: Survey Social Media platform with React frontend and backend (Private repo)
+- **🌐 varshaa1**: Multi-language translator web application  
+- **🗄️ DBMS**: Database management system with Python backend
 
 ## 🎯 Current Projects & Learning
 
