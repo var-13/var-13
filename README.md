@@ -13,7 +13,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 👯 I'm looking to collaborate on **Open source projects and innovative web applications**
 - 💬 Ask me about **JavaScript, React, Node.js, Python, and web development**
 - 📫 How to reach me: **varshaamanikandan2005@gmail.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes and love photography!**
+- ⚡ Fun fact: **I love exploring AI technologies and building innovative solutions that make life easier!**
 
 ## 🛠️ Tech Stack
 
@@ -82,25 +82,19 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://github-profile-trophy.vercel.app/?username=var-13&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-## 🔥 Featured Projects
+## 🎯 Current Projects & Learning
 
 <div align="center">
-  <a href="https://github.com/var-13/ecommerce-platform">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=ecommerce-platform&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/var-13/task-manager-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=task-manager-app&theme=tokyonight" />
-  </a>
+  <img src="https://img.shields.io/badge/🚀_Currently_Building-AI_Applications-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Learning-Machine_Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Exploring-Next.js_14-purple?style=for-the-badge" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/var-13/weather-dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=weather-dashboard&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/var-13/portfolio-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=portfolio-website&theme=tokyonight" />
-  </a>
-</div>
+### 🌟 What I'm Working On:
+- 🤖 **AI-Powered Applications**: Building intelligent solutions using modern AI technologies
+- 🌐 **Full-Stack Development**: Creating responsive web applications with React and Node.js
+- 📊 **Data Analytics**: Exploring data visualization and analysis techniques
+- 🔧 **DevOps & Cloud**: Learning containerization with Docker and cloud deployments
 
 ## 📈 Contribution Graph
 <div align="center">
