@@ -82,6 +82,23 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://github-profile-trophy.vercel.app/?username=var-13&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/var-13/ssm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=ssm&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/var-13/varshaa1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=varshaa1&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/var-13/DBMS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=var-13&repo=DBMS&theme=tokyonight" />
+  </a>
+</div>
+
 ## 🎯 Current Projects & Learning
 
 <div align="center">
