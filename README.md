@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Varsh
+# Hi there! 👋 I'm Varshaa
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" alt="Typing SVG" />
@@ -12,7 +12,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🌱 I'm currently learning **Next.js 14, TypeScript, Docker, and Machine Learning**
 - 👯 I'm looking to collaborate on **Open source projects and innovative web applications**
 - 💬 Ask me about **JavaScript, React, Node.js, Python, and web development**
-- 📫 How to reach me: **var13.dev@gmail.com**
+- 📫 How to reach me: **varshaamanikandan2005@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes and love photography!**
 
 ## 🛠️ Tech Stack
@@ -110,16 +110,13 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/var13-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/varshaa-manikandan-0b6763288/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/var13_dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:var13.dev@gmail.com" target="_blank">
+  <a href="mailto:varshaamanikandan2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://var13.dev" target="_blank">
+  <a href="https://varshaas-ai-adventures.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
